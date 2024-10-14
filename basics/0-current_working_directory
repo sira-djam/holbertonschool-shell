@@ -1,2 +1,3 @@
-./0-current_working_directory
-/basics
+#!/bin/bash
+pwd 
+
