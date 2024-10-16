@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /tmp/welcom/welcom/to/welcom/to/school
+mkdir -p /tmp/welcom{to} weclcom/to{school}
