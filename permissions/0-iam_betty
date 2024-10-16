@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod iam_betty
+su iam_betty
