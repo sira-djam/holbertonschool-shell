@@ -1,2 +1,2 @@
 #!/bin/bash
-grp "bin" /etc/passwd
+wc bin /etc/passwd
